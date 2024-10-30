@@ -1,0 +1,14 @@
+/*
+There are CSS classes already added to the elements for the Latest Post
+Edit them to style the Latest Post, or add your own. 
+*/
+
+h2.latestTitle{}
+
+a.latestLink {}
+
+img.latestImg{}
+
+div.latestDiv{}
+
+div.latestDiv p{}
